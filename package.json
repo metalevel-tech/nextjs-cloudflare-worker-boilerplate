@@ -15,7 +15,7 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts"
   },
   "dependencies": {
-    "ai": "^4.1.6",
+    "ai": "^5.0.52",
     "browserslist": "^4.24.4",
     "caniuse-lite": "^1.0.30001695",
     "class-variance-authority": "^0.7.1",
